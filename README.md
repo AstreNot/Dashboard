@@ -1,2 +1,2 @@
 # Dashboard
-This is my collection of projects i've done on Power BI. Hope you like it
+This repository showcases a curated collection of interactive dashboards developed from real-world data projects across various domains, including business intelligence, sales, users, and trends. Each dashboard highlights key analytical workflows, data visualization strategies, and actionable insights tailored to specific use cases. Designed with a focus on clarity, usability, and data-driven storytelling, this collection demonstrates practical applications of Power BI dashboards. It serves as both a portfolio of applied analytics work and a resource for exploring real-world data visualization techniques. 
